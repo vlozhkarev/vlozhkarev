@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm vlozhkarev</h1>
 <h3 align="center">an enthusiastic dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vlozhkarev&label=Profile%20views&color=0e75b6&style=flat" alt="vlozhkarev" /> </p>
-
 - 🔭 I’m currently working on **telegram bots**
 
 - 🌱 I’m currently learning **aiogram**
